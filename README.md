@@ -1,5 +1,7 @@
 ### Create a migration
 - typeorm migration:create -n {migrationName}
+### Run migrations
+- typeorm migration:run
 ### Column with uuid in PostgreSQL
 ``` json
 {
